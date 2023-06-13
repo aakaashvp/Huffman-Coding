@@ -1,5 +1,5 @@
 ## Ex no: 12
-## Date: 18/6/2022
+## Date: 31.05.2023
 # <p align="center">Huffman coding
 
 
